@@ -11,8 +11,16 @@ public class TiposVariaveis {
        int numero = 5;
         
        System.out.println(numero);
+       System.out.println(idade);
+       System.out.println(ano);
+       System.out.println(cep);
+       System.out.println(cpf);
+       System.out.println(pi);
+       System.out.println(salarioMinimo);
+
 
        final double VALOR_DE_PI = 3.14;
+       System.out.println(VALOR_DE_PI);
        
        
     }
