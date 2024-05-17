@@ -1,4 +1,4 @@
-public class ExemploForArray {
+public class For_Array {
     //em arrays o indice inicia em ZERO.
     public static void main(String[] args) {
     String alunos[] = {"Felipe","Jonas","Judas", "Eduardo"};
